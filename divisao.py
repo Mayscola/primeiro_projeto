@@ -1,4 +1,2 @@
-a = 18 / 5
-print(a)
-b = 45 / 2
-print (b)
+resultado = 10 % 3
+print(resultado)
